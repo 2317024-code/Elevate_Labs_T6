@@ -1,4 +1,4 @@
-# 📊 Sales Trend Analysis Using MySQL
+# Sales Trend Analysis Using MySQL
 
 ## Project Overview
 This project demonstrates how to perform **Sales Trend Analysis** on an e-commerce dataset using **MySQL**.  
